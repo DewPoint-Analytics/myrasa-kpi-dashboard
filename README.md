@@ -1,6 +1,6 @@
 # *MyRasa SmartMart: Measuring Smart Retail Success*
 
-**[▶ Open the live dashboard](https://shab-analytics.github.io/myrasa-kpi-dashboard/)**
+**[▶ Open the live dashboard](https://dewpoint-analytics.github.io/myrasa-kpi-dashboard/)**
 
 *How will management know whether a smart retail strategy is actually working? This case file builds a KPI framework for a Malaysian grocer's smart-store pilot and shows, through an interactive dashboard, how the scale-up decision would be made.*
 
